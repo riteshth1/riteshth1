@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @riteshth1 as Ritesh Thakur
 - ⚡ Life long learner
 - 🏫 Student (Bachelor of Computer Application)
-- 📔 learning --> python, Statistics, Data Science
+- 📔 learning --> python, Linear Algebra, Machine Learning,  Data Science
+- 🫡 learned --> Statistics and Probability
 - 👀 I’m interested in learning about Data science, AI and ML, music and programming.
 - 🌱 I’m currently aspiring Data science. 
 - 📫 How to reach me ... via gmail- riteshbill14@gmail.com
